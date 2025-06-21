@@ -10,10 +10,16 @@
 
 <p>
   This demo implements checkpoint-based model state recovery so that if 
-  training is interrupted, you don’t have to start from scratch. It serves 
-  as a simple example for a classification task with automatic resuming.
+  training is interrupted, you don’t have to start from scratch. It serves  as a simple example for a classification task with automatic resuming.
 </p>
-
+<h2>Features</h2>
+<ul>
+  <li>✔️ Written in Pytorch </li>
+  <li>✔️ Saves model weights and optimizer state at configurable intervals</li>
+  <li>✔️ Automatically loads the latest checkpoint on restart</li>
+  <li>✔️ Manual DPI Image saving ( Helpful for Academic Journals) </li>
+  <li>✔️ Minimal dependencies for easy experimentation</li>
+</ul>
 
 
 <h2>License</h2>
