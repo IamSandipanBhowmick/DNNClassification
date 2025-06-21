@@ -15,12 +15,23 @@
 <h2>Features</h2>
 <ul>
   <li>✔️ Written in Pytorch </li>
+  <li>✔️ Model summery </li>
   <li>✔️ Saves model weights and optimizer state at configurable intervals</li>
   <li>✔️ Automatically loads the latest checkpoint on restart</li>
   <li>✔️ Manual DPI Image saving ( Helpful for Academic Journals) </li>
   <li>✔️ Minimal dependencies for easy experimentation</li>
 </ul>
 
+<h2>Cautions</h2>
+
+<ul>
+  <li> Please save the checkpoint and results in your GDrive if running on Colab </li>
+  <li> This is a Basic Demo, Parameters are not optimized </li>
+  <li>✔️ Saves model weights and optimizer state at configurable intervals</li>
+  <li>✔️ Automatically loads the latest checkpoint on restart</li>
+  <li>✔️ Manual DPI Image saving ( Helpful for Academic Journals) </li>
+  <li>✔️ Minimal dependencies for easy experimentation</li>
+</ul>
 
 <h2>License</h2>
 <p>
